@@ -1,1 +1,10 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<Bug>
+<Bug_id="Number_1"> 
+<Title="The SAVE DATA button is smaller than the others">
+<Severity="trivial">
+<Priority="low">
+<Environment="Samsung Galaxy_S6,Android_10">
+<AR="The application buttons have one view">
+<ER="The SAVE DATA button is smaller than the others">
+  </Bug>
