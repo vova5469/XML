@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<favorite>
-	<Film="DEADPOOL">
-		<Series="Game of Thrones">
-			<Food="dumplings">
-				<Season="summer">
-					<Country="Asia">
-					</favorite>
+<Film>
+	<favorite>DEADPOOL</favorite>
+</Film>
+	<Series>
+		<favorite>GameOfThrones</favorite>
+	</Series>
+		<Food>
+			<delicious>dumplings</delicious>
+		</Food>
+<Season>
+	<favorite>summer</favorite>
+</Season>
+<Country>
+	<favorite>Asia</favorite>
+</Country>
